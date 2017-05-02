@@ -2,7 +2,7 @@
 webpack, DevServer, PostCSS(cssnext), ESLint
 
 ## Usage
-development: 
+development(localhost:8080): 
 ```bash
 $ yarn dev
 ```
